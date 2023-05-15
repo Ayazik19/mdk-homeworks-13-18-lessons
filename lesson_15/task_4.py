@@ -60,6 +60,7 @@ car.speed_down()
 car.beep()
 car.stop()
 
+
 truck.start()
 truck.turn('налево')
 truck.speed_up()
